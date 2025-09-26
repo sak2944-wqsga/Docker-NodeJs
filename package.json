@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Abinash Kumar",
+  "author": "Shubham Kharche",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
